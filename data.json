@@ -1,0 +1,26 @@
+[
+  {
+    "from": "Chennai",
+    "to": "Trichy",
+    "mode": "Train",
+    "time": 5,
+    "cost": 150,
+    "safety": 8
+  },
+  {
+    "from": "Chennai",
+    "to": "Trichy",
+    "mode": "Bus",
+    "time": 7,
+    "cost": 100,
+    "safety": 6
+  },
+  {
+    "from": "Trichy",
+    "to": "Madurai",
+    "mode": "Train",
+    "time": 3,
+    "cost": 120,
+    "safety": 9
+  }
+]
